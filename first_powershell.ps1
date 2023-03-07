@@ -1,1 +1,2 @@
 $env:COMPUTERNAME
+$env:USERNAME
